@@ -4,7 +4,7 @@
 ####[第二章：SpringBoot与JSP间不可描述的秘密](http://www.jianshu.com/p/90a84c814d0c)
 ####[第三章：SpringBoot使用SpringDataJPA完成CRUD](http://www.jianshu.com/p/b6932740f3c0)
 ####[第四章：使用Druid作为SpringBoot项目数据源（添加监控）](http://www.jianshu.com/p/e84e2709f383)
-####第五章：配置使用FastJson返回Json视图
+####[第五章：配置使用FastJson返回Json视图](http://www.jianshu.com/p/14df78573cb2)
 ####第六章：如何在SpringBoot项目中使用拦截器
 ####第七章：SpringBoot整合JavaMail发送邮件
 ####第八章：使用拦截器记录你的SpringBoot的请求日志
