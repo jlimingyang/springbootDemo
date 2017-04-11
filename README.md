@@ -9,7 +9,7 @@
 ####[第七章：SpringBoot整合JavaMail发送邮件](http://www.jianshu.com/p/0991f0841b0a)
 ####[第八章：使用拦截器记录你的SpringBoot的请求日志](http://www.jianshu.com/p/890c23a1b3d7)
 ####[第九章：如何排除SpringBoot内置SpringMvc静态文件地址](http://www.jianshu.com/p/c6ab1081fd5f)
-####第十章：配置SpringBoot支持自动装载Servlet
+####[第十章：配置SpringBoot支持自动装载Servlet](http://www.jianshu.com/p/2973bdd083ef)
 ####第十一章：实现SpringBoot单个、多个文件的上传
 ####第十二章：SpringBoot使用LogBack作为日志组件
 #二、提升
