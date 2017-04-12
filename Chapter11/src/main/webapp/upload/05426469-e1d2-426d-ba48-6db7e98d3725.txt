@@ -1,0 +1,37 @@
+操作系统：ubuntu16.04 server
+IP地址：192.168.1.116
+超级管理员密码：jnxmkj..
+
+
+
+[MySQL,超级管理员用户]
+root root 本地链接
+
+外部链接 centos
+root
+xunmei@java..
+mysql关闭方式：mysqladmin shutdown
+mysql启动方式：mysqld_safe&
+
+外部链接 ubuntu
+root
+xunmei@java..
+mysql关闭方式：service mysql stop(服务方式)
+主从用户：xunmei_slave  xunmei@slave
+
+
+
+
+[MySQL普通用户，仅授权Select,Insert,Update,Delete,Alter]
+xunmei
+xunmei@code..
+
+
+[禅道管理账号]
+
+账号：admin
+密码：xunmei@cd..
+
+[禅道开发账号]
+yuqy
+hysn1994!.
