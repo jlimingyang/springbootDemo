@@ -11,7 +11,7 @@
 ####[第九章：如何排除SpringBoot内置SpringMvc静态文件地址](http://www.jianshu.com/p/c6ab1081fd5f)
 ####[第十章：配置SpringBoot支持自动装载Servlet](http://www.jianshu.com/p/2973bdd083ef)
 ####[第十一章：实现SpringBoot单个、多个文件的上传](http://www.jianshu.com/p/7903b6ebe47f)
-####第十二章：SpringBoot使用LogBack作为日志组件
+####[第十二章：SpringBoot使用LogBack作为日志组件](http://www.jianshu.com/p/06b6574943df)
 #二、提升
 ####第十三章：SpringBoot实战SpringDataJPA
 ####第十四章：QueryDSL与SpringDataJPA共同服务于SpringBoot
