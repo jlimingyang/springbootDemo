@@ -13,7 +13,7 @@
 ####[第十一章：实现SpringBoot单个、多个文件的上传](http://www.jianshu.com/p/7903b6ebe47f)
 ####[第十二章：SpringBoot使用LogBack作为日志组件](http://www.jianshu.com/p/06b6574943df)
 #二、提升
-####第十三章：SpringBoot实战SpringDataJPA
+####[第十三章：SpringBoot实战SpringDataJPA](http://www.jianshu.com/p/9d5bf0e4943f)
 ####第十四章：QueryDSL与SpringDataJPA共同服务于SpringBoot
 ####第十五章：使用SpringBoot validator让数据更真实
 ####第十六章：使用Redis作为SpringBoot项目数据缓存
