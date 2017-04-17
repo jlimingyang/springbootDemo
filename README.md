@@ -16,7 +16,7 @@
 ####[第十三章：SpringBoot实战SpringDataJPA](http://www.jianshu.com/p/9d5bf0e4943f)
 ####[第十四章：QueryDSL与SpringDataJPA共同服务于SpringBoot](http://www.jianshu.com/p/7379173e1970)
 ####[第十五章：使用SpringBoot validator让数据更真实](http://www.jianshu.com/p/e111d3fbc583)
-####第十六章：使用Redis作为SpringBoot项目数据缓存
+####[第十六章：使用Redis作为SpringBoot项目数据缓存](http://www.jianshu.com/p/5a70b13a4fa7)
 ####第十七章：使用SpringSecurity让SpringBoot项目更安全
 ####第十八章：使用oauth2设计SpringBoot项目api接口安全服务
 ####第十九章：使用jwt设计SpringBoot项目api接口安全服务
