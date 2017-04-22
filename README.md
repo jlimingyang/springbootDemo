@@ -18,7 +18,7 @@
 ####[第十五章：使用SpringBoot validator让数据更真实](http://www.jianshu.com/p/e111d3fbc583)
 ####[第十六章：使用Redis作为SpringBoot项目数据缓存](http://www.jianshu.com/p/5a70b13a4fa7)
 ####[第十七章：使用SpringSecurity让SpringBoot项目更安全](http://www.jianshu.com/p/c3b49d0a490b)
-####第十八章：使用oauth2设计SpringBoot项目api接口安全服务
+####[第十八章：使用oauth2设计SpringBoot项目api接口安全服务](http://www.jianshu.com/p/ded9dc32f550)
 ####第十九章：使用jwt设计SpringBoot项目api接口安全服务
 ####第二十章：SpringBoot项目中使用WebScoker通讯
 ####第二十一章：SpringBoot项目中的全局异常处理
