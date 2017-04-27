@@ -20,7 +20,7 @@
 ####[第十七章：使用SpringSecurity让SpringBoot项目更安全](http://www.jianshu.com/p/c3b49d0a490b)
 ####[第十八章：使用oauth2设计SpringBoot项目api接口安全服务](http://www.jianshu.com/p/ded9dc32f550)
 ####[第十九章：使用jwt设计SpringBoot项目api接口安全服务](http://www.jianshu.com/p/2503cde90c55)
-####第二十章：SpringBoot项目中使用WebScoker通讯
+####[第二十章：SpringBoot项目中使用WebSocker配置广播式通信](http://www.jianshu.com/p/19cec6fbf422)
 ####第二十一章：SpringBoot项目中的全局异常处理
 ####第二十二章：SpringBoot项目多数据源配置
 ####第二十三章：SpringBoot添加支持Cors跨域访问
