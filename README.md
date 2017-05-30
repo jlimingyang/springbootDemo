@@ -24,7 +24,7 @@
 ####[第二十一章：SpringBoot项目中的全局异常处理](http://www.jianshu.com/p/1c6207d8ee9d)
 ####[第二十二章：SpringBoot项目多模块运用与设计](http://www.jianshu.com/p/33809a23e91a)
 ####[第二十三章：SpringBoot项目多模块打包与部署](http://www.jianshu.com/p/37d083ce2063)
-####第二十四章：SpringBoot项目多数据源配置
+####[第二十四章：SpringBoot项目多数据源配置](http://www.jianshu.com/p/9f812e651319)
 ####第二十五章：SpringBoot添加支持Cors跨域访问
 ####第二十六章：SpringBoot使用@Scheduled创建定时任务
 ####第二十七章：使用ehcache作为SpringBoot数据缓存
