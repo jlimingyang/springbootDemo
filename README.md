@@ -26,7 +26,7 @@
 ####[第二十三章：SpringBoot项目多模块打包与部署](http://www.jianshu.com/p/37d083ce2063)
 ####[第二十四章：SpringBoot项目多数据源配置](http://www.jianshu.com/p/9f812e651319)
 ####[第二十五章：SpringBoot添加支持Cors跨域访问](http://www.jianshu.com/p/c6ea21b64f6e)
-####第二十六章：SpringBoot使用@Scheduled创建定时任务
+####[第二十六章：SpringBoot使用@Scheduled创建定时任务](http://www.jianshu.com/p/c7492aeb35a1)
 ####第二十七章：使用ehcache作为SpringBoot数据缓存
 ####第二十八章：将Session分布式保存到Redis数据库中
 ####第二十九章：SpringBoot使用Devltools热部署项目
