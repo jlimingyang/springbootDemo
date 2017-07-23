@@ -28,7 +28,7 @@
 ####[第二十五章：SpringBoot添加支持Cors跨域访问](http://www.jianshu.com/p/c6ea21b64f6e)
 ####[第二十六章：SpringBoot使用@Scheduled创建定时任务](http://www.jianshu.com/p/c7492aeb35a1)
 ####[第二十七章：SpringBoot使用ApplicationEvent&Listener完成业务解耦](http://www.jianshu.com/p/4359dd4b36a6)
-####第二十八章：使用ehcache作为SpringBoot数据缓存
+####[第二十八章：SpringBoot使用AutoConfiguration自定义Starter](http://www.jianshu.com/p/188065e1137b)
 ####第二十九章：将Session分布式保存到Redis数据库中
 ####第三十章：SpringBoot使用Devltools热部署项目
 ####第三十一章：SpringBoot使用Aop记录详细数据日志
