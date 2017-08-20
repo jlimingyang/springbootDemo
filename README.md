@@ -30,7 +30,7 @@
 ####[第二十七章：SpringBoot使用ApplicationEvent&Listener完成业务解耦](http://www.jianshu.com/p/4359dd4b36a6)
 ####[第二十八章：SpringBoot使用AutoConfiguration自定义Starter](http://www.jianshu.com/p/188065e1137b)
 ####[第二十九章：SpringBoot使用Lombok来优雅的编码](http://www.jianshu.com/p/9bd6ce692ab1)
-####第三十章：SpringBoot使用MapStruct自动映射DTO
+####[第三十章：SpringBoot使用MapStruct自动映射DTO](http://www.jianshu.com/p/3f20ca1a93b0)
 三、配置
 ####第三十一章：SpringBoot修改tomcat配置参数
 ####第三十二章：如何获取SpringBoot项目的applicationContext对象
