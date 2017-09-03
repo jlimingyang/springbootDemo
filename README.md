@@ -35,7 +35,7 @@
 ####[第三十一章：SpringBoot修改tomcat配置参数](http://www.jianshu.com/p/a4bb58331107)
 ####[第三十二章：如何获取SpringBoot项目的applicationContext对象](http://www.jianshu.com/p/3cd2d4e73eb7)
 ####[第三十三章：修改SpringBoot启动Banner](http://www.jianshu.com/p/c1f7617c99aa)
-####第三十四章：SpringBoot自定义配置类
+####[第三十四章：SpringBoot自定义配置类](http://www.jianshu.com/p/2c2cdb80fe47)
 #四、提升
 ####第三十五章：基于SpringBoot架构重写SpringMVC请求参数装载
 ####第三十六章：基于SpringBoot架构以及参数装载完成接口安全认证
