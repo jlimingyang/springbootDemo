@@ -12,7 +12,7 @@
 ####[第十章：配置SpringBoot支持自动装载Servlet](http://www.jianshu.com/p/2973bdd083ef)
 ####[第十一章：实现SpringBoot单个、多个文件的上传](http://www.jianshu.com/p/7903b6ebe47f)
 ####[第十二章：SpringBoot使用LogBack作为日志组件](http://www.jianshu.com/p/06b6574943df)
-#二、提升
+#二、核心
 ####[第十三章：SpringBoot实战SpringDataJPA](http://www.jianshu.com/p/9d5bf0e4943f)
 ####[第十四章：QueryDSL与SpringDataJPA共同服务于SpringBoot](http://www.jianshu.com/p/7379173e1970)
 ####[第十五章：使用SpringBoot validator让数据更真实](http://www.jianshu.com/p/e111d3fbc583)
@@ -31,8 +31,12 @@
 ####[第二十八章：SpringBoot使用AutoConfiguration自定义Starter](http://www.jianshu.com/p/188065e1137b)
 ####[第二十九章：SpringBoot使用Lombok来优雅的编码](http://www.jianshu.com/p/9bd6ce692ab1)
 ####[第三十章：SpringBoot使用MapStruct自动映射DTO](http://www.jianshu.com/p/3f20ca1a93b0)
-三、配置
-####第三十一章：SpringBoot修改tomcat配置参数
-####第三十二章：如何获取SpringBoot项目的applicationContext对象
-####第三十三章：修改SpringBoot启动banner
+#三、配置
+####[第三十一章：SpringBoot修改tomcat配置参数](http://www.jianshu.com/p/a4bb58331107)
+####[第三十二章：如何获取SpringBoot项目的applicationContext对象](http://www.jianshu.com/p/3cd2d4e73eb7)
+####[第三十三章：修改SpringBoot启动Banner](http://www.jianshu.com/p/c1f7617c99aa)
 ####第三十四章：SpringBoot自定义配置类
+#四、提升
+####第三十五章：基于SpringBoot架构重写SpringMVC请求参数装载
+####第三十六章：基于SpringBoot架构以及参数装载完成接口安全认证
+####第三十七章：基于SpringBoot架构使用Profile完成打包环境分离
