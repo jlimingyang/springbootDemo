@@ -37,6 +37,13 @@
 ####[第三十三章：修改SpringBoot启动Banner](http://www.jianshu.com/p/c1f7617c99aa)
 ####[第三十四章：SpringBoot自定义配置类](http://www.jianshu.com/p/2c2cdb80fe47)
 #四、提升
-####第三十五章：基于SpringBoot架构重写SpringMVC请求参数装载
-####第三十六章：基于SpringBoot架构以及参数装载完成接口安全认证
-####第三十七章：基于SpringBoot架构使用Profile完成打包环境分离
+####[第三十五章：基于SpringBoot架构重写SpringMVC请求参数装载](http://www.jianshu.com/p/d8f844711bf4)
+####第三十六章：基于SpringBoot架构重写SpringMVC请求参数装载
+####第三十七章：基于SpringBoot架构以及参数装载完成接口安全认证
+####第三十八章：基于SpringBoot架构使用Profile完成打包环境分离
+####第三十九章：基于SpringBoot使用MethodInterceptor打印请求参数日志
+####第四十章：基于SpringBoot & AOP完成自定义Redis缓存数据读取
+####第四十一章：基于SpringBoot & AOP完成自定义Redis缓存数据更新
+####第四十二章：基于SpringBoot内置Scheduled动态完成定时任务分配
+####第四十三章：开源HGenerator代码生成Maven插件
+####第四十四章：基于SpringBoot设计通用框架级别系统异常处理
