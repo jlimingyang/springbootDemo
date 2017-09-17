@@ -38,7 +38,7 @@
 ####[第三十四章：SpringBoot自定义配置类](http://www.jianshu.com/p/2c2cdb80fe47)
 #四、提升
 ####[第三十五章：基于SpringBoot架构重写SpringMVC请求参数装载](http://www.jianshu.com/p/d8f844711bf4)
-####第三十六章：基于SpringBoot架构重写SpringMVC请求参数装载
+####[第三十六章：基于SpringBoot架构重写SpringMVC请求参数装载](http://www.jianshu.com/p/24ebb66c25cb)
 ####第三十七章：基于SpringBoot架构以及参数装载完成接口安全认证
 ####第三十八章：基于SpringBoot架构使用Profile完成打包环境分离
 ####第三十九章：基于SpringBoot使用MethodInterceptor打印请求参数日志
